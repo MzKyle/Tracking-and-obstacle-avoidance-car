@@ -1,0 +1,24 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "d:/桌面/桌面/littlething/STM32-10B智能小车资料/3.案例程序/ZY10A-STM32/6.机器人红外循迹、避障、遥控综合程序/Start",
+      "program": "d:/桌面/桌面/littlething/STM32-10B智能小车资料/3.案例程序/ZY10A-STM32/6.机器人红外循迹、避障、遥控综合程序/Start/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
